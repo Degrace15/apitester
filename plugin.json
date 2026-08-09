@@ -1,0 +1,31 @@
+{
+  "$schema": "https://acode.app/schema/plugin/v0.1.0.json",
+  "id": "com.degrace.apitester",
+  "name": "Api Tester",
+  "main": "dist/main.js",
+  "version": "1.1.0",
+  "readme": "readme.md",
+  "changelogs": "CHANGELOG.md",
+  "repository": "https://github.com/Degrace15/apitester",
+  "icon": "icon.png",
+  "minVersionCode": 290,
+  "license": "MIT",
+  "price": 0,
+  "keywords": [
+    "api",
+    "tester",
+    "http",
+    "rest",
+    "request",
+    "response",
+    "json",
+    "developer",
+    "debugging"
+  ],
+  "author": {
+    "name": "Hacker2.0",
+    "email": "kiminoudegrace64@gmail.com",
+    "github": "Degrace15"
+  },
+  "description": "Test and debug REST APIs directly inside Acode. Send HTTP requests, configure headers and request bodies, and inspect server responses without leaving the editor."
+}
